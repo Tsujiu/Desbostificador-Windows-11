@@ -1,8 +1,8 @@
-# Desbotificador Windows 11
+# Desbostificador Windows 11
 
 🔥 **Otimize seu Windows 11 com 1 clique!**
 
-O **Desbotificador Windows 11** limpa bloatware, desativa telemetria, anúncios e serviços desnecessários, deixando seu sistema mais rápido, leve e seguro. Tudo automatizado via GUI elegante.
+O **Desbostificador Windows 11** limpa bloatware, desativa telemetria, anúncios e serviços desnecessários, deixando seu sistema mais rápido, leve e seguro. Tudo automatizado via GUI elegante.
 
 ---
 
@@ -11,7 +11,7 @@ O **Desbotificador Windows 11** limpa bloatware, desativa telemetria, anúncios 
 1. Execute o arquivo **EXECUTAR.bat**.  
 2. Abra a GUI que aparecerá.  
 3. Clique em **Executar**. Todas as funções serão aplicadas automaticamente.  
-4. Aguarde a mensagem de conclusão. Pronto, seu Windows está desbotificado!
+4. Aguarde a mensagem de conclusão. Pronto, seu Windows está desbostificado!
 
 ---
 
